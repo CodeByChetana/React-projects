@@ -1,0 +1,19 @@
+body{
+  background-color: lightblue;
+  padding: 20px;
+}
+
+.card{
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px grey;
+}
+
+button{
+  background-color: blue;
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
